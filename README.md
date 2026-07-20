@@ -6,8 +6,6 @@ I'm **Bhavishya Devineni**, a passionate **Python Full-Stack Developer** and **A
 
 ## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif" alt="Coder GIF" width="300">
-
 - 💻 **Python Full-Stack Developer** specializing in Django applications
 - 🤖 **Artificial Intelligence** enthusiast exploring ML and AI applications  
 - 📚 **Strong DSA Foundation** with expertise in Data Structures and Algorithms
@@ -26,15 +24,12 @@ I'm **Bhavishya Devineni**, a passionate **Python Full-Stack Developer** and **A
 ```
 
 ### **Specializations:**
-<div align="center">
 
 | Full-Stack Django | AI & Machine Learning | DSA & Algorithms |
 |:---:|:---:|:---:|
 | 🌐 Web Development | 🤖 TensorFlow | 📊 Data Structures |
 | 🔐 Authentication | 📈 Scikit-learn | ⚡ Optimization |
 | 🗄️ Database Design | 🧠 Neural Networks | 🎯 Problem Solving |
-
-</div>
 
 ### **Frameworks & Libraries:**
 ```
@@ -51,9 +46,13 @@ I'm **Bhavishya Devineni**, a passionate **Python Full-Stack Developer** and **A
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavishya-27&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavishya-27&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya-27&layout=compact&theme=radical&hide_border=true)
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya-27&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -61,28 +60,13 @@ I'm **Bhavishya Devineni**, a passionate **Python Full-Stack Developer** and **A
 
 ## 🎯 What I'm Currently Doing
 
-<table>
-<tr>
-<td>📖 <b>Learning</b></td>
-<td>Java for backend development and advanced OOP concepts</td>
-</tr>
-<tr>
-<td>🔬 <b>Exploring</b></td>
-<td>Artificial Intelligence applications and machine learning models</td>
-</tr>
-<tr>
-<td>🛠️ <b>Building</b></td>
-<td>Django applications with modern UI/UX design</td>
-</tr>
-<tr>
-<td>📚 <b>Growing</b></td>
-<td>Earning industry certifications and expanding my professional portfolio</td>
-</tr>
-<tr>
-<td>🚀 <b>Contributing</b></td>
-<td>To open-source projects and developer community</td>
-</tr>
-</table>
+| Activity | Details |
+|:---|:---|
+| 📖 **Learning** | Java for backend development and advanced OOP concepts |
+| 🔬 **Exploring** | Artificial Intelligence applications and machine learning models |
+| 🛠️ **Building** | Django applications with modern UI/UX design |
+| 📚 **Growing** | Earning industry certifications and expanding my professional portfolio |
+| 🚀 **Contributing** | To open-source projects and developer community |
 
 ---
 
@@ -100,19 +84,13 @@ I'm **Bhavishya Devineni**, a passionate **Python Full-Stack Developer** and **A
 
 ## 💡 Core Interests
 
-<div align="center">
-
 | 🌐 | 🤖 | 📊 | 🎨 | 📚 | 🔍 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Full-Stack** | **AI/ML** | **DSA** | **Design** | **Open-Source** | **Research** |
 
-</div>
-
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | Project | Description | Stack |
 |:---:|:---|:---:|
@@ -121,19 +99,17 @@ I'm **Bhavishya Devineni**, a passionate **Python Full-Stack Developer** and **A
 | 🧩 **DSA Solutions** | Optimized algorithms and data structure implementations | Python, Java |
 | 🎨 **App Design** | Clean architecture and design patterns in practice | Django, MVC |
 
-</div>
-
 ---
 
 ## 📫 Get in Touch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavishya%20Devineni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavishya-devineni-981806413?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavishya%20Devineni-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavishya-devineni-981806413?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bhavishya--27-black?style=for-the-badge&logo=github)](https://github.com/Bhavishya-27)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhavishya--27-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavishya-27)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20via%20LinkedIn-red?style=for-the-badge&logo=gmail)](https://www.linkedin.com/in/bhavishya-devineni-981806413)
+[![Email](https://img.shields.io/badge/Email-Contact%20via%20LinkedIn-red?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/bhavishya-devineni-981806413)
 
 </div>
 
@@ -141,47 +117,34 @@ I'm **Bhavishya Devineni**, a passionate **Python Full-Stack Developer** and **A
 
 ## 🌟 Fun Fact
 
-<div align="center">
-
 ### ✈️ I'm a **traveler at heart** 🌍
+
 Exploring new places while simultaneously researching new technologies and skills.
 
 ### 💻 **Travel + Tech = My Perfect Combo!**
 
 I believe that the best learning comes from combining real-world experiences with hands-on technical growth.
 
-</div>
-
 ---
 
 ## 💪 Let's Collaborate!
 
-<div align="center">
-
-```
-🤝 Django Projects  •  🤖 AI/ML Initiatives  •  📚 Open-Source  •  🚀 Innovation
-```
-
 ### I'm always interested in:
-- Collaborating on Django projects
-- Working on AI/ML initiatives  
-- Contributing to open-source
-- Sharing knowledge and learning from others
-- Building products that make a difference
+- 🤝 Collaborating on Django projects
+- �� Working on AI/ML initiatives  
+- 📚 Contributing to open-source
+- 💡 Sharing knowledge and learning from others
+- 🚀 Building products that make a difference
 
 **Feel free to explore my repositories, contribute, or reach out for collaboration!**
 
 ### Let's build something amazing together! 🚀
-
-</div>
 
 ---
 
 <div align="center">
 
 ### ⭐ *Early Bird in Tech | Python & AI Enthusiast | DSA Lover | Forever Learning* ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bhavishya-27&style=flat-square&color=blue)
 
 **Last updated: July 2026**
 
