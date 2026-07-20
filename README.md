@@ -6,7 +6,7 @@
 
 ### ✨ Python Full-Stack Developer | 🤖 AI Enthusiast | 🎯 Early Career Builder ✨
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+Innovative+Solutions;Python+%2B+Django+%2B+AI;DSA+%2B+Problem+Solving;Traveling+%2B+Learning+%2B+Growing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Building+Innovative+Solutions;Python+%2B+Django+%2B+AI;DSA+%2B+Problem+Solving;Traveling+%2B+Learning+%2B+Growing)
 
 </div>
 
